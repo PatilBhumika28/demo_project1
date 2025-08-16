@@ -1,2 +1,3 @@
 # new project 
-this is my first git project
+this is my first git projectc.
+created by Bhoomika Patil.
